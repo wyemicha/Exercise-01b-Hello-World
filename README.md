@@ -1,4 +1,4 @@
-# 01b-Hello-World
+# Exercise-01b-Hello-World
 Exercise for MSCH-C220, 25 January 2021
 
 This exercise is an opportunity for you to create your (perhaps) first program in Python. A tradition in programming is for a person's first program in a language to print out "Hello, World!". We will be doing that, but with a little twist.
