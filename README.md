@@ -59,7 +59,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing my information with yours):
 ```
 # Exercise-01b-Hello-World
-Exercise for MSCH-C220, 25 January 2020
+Exercise for MSCH-C220, 25 January 2021
 
 A python implementation of Hello, World, followed by a short conversation.
 
